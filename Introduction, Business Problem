@@ -16,6 +16,11 @@
     There should be two seperate tables with the primary data of two cities (with coordinates, neighborhoods and venues). Once the data is clean we should cluster it and find
     the best cluster for coffie shop.
     
-    Data will be collected from Wikipedia, Foursquare, csv files and IBM cloud.
+    Data will be collected from Wikipedia, Foursquare, csv files and IBM cloud. From IBM cloud we will take data about New York neighberhoods. From Wikipedia and CSV file 
+    we will take data for Toronto neighborhoods. Then from Forsquare we will take data about venues and customer reviews.
+    
+    After clusters are created we will look for fewest coffie shops in the clusters and we would look for worst reviews for coffie shops in the cluster. Then we would
+    know approximate position for our coffie shop and after that we will compare the best neighborhoods for each city.
+    
     
     
